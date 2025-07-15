@@ -1,73 +1,60 @@
-# Welcome to your Lovable project
+# HUFT - Personal Portfolio Website
 
-## Project info
+![Tampilan Website HUFT](link-ke-screenshot.png)
 
-**URL**: https://lovable.dev/projects/87a58e8a-cc57-4386-a375-70037155f974
+Ini adalah source code untuk website portofolio pribadi saya, dibangun dengan teknologi web modern untuk menampilkan proyek, pengalaman, dan keahlian saya dalam pengembangan perangkat lunak.
 
-## How can I edit this code?
+**[🚀 Lihat Live Demo](https://huft.vercel.app/)**
 
-There are several ways of editing your application.
+> **Catatan:** 
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/87a58e8a-cc57-4386-a375-70037155f974) and start prompting.
+## ✨ Fitur Utama
 
-Changes made via Lovable will be committed automatically to this repo.
+* **Desain Responsif**: Tampilan yang optimal di berbagai perangkat, dari mobile hingga desktop.
+* **Mode Terang & Gelap**: Tombol untuk mengubah tema antara mode terang (light) dan gelap (dark).
+* **Komponen Modular**: Dibangun menggunakan komponen React yang dapat digunakan kembali untuk setiap bagian (Hero, About, Projects, dll.).
+* **Performa Cepat**: Menggunakan Vite sebagai build tool untuk waktu loading dan development yang sangat cepat.
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🛠️ Teknologi yang Digunakan
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+* **Framework**: [React.js](https://reactjs.org/)
+* **Bahasa**: [TypeScript](https://www.typescriptlang.org/)
+* **Build Tool**: [Vite](https://vitejs.dev/)
+* **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+* **Deployment**: [Vercel](https://vercel.com/)
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🚀 Menjalankan Project Secara Lokal
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Jika Anda ingin menjalankan project ini di komputer Anda, ikuti langkah-langkah berikut:
 
-# Step 3: Install the necessary dependencies.
-npm i
+1.  **Clone repository ini:**
+    ```bash
+    git clone [https://github.com/andi-nugroho/HUFT.git](https://github.com/andi-nugroho/HUFT.git)
+    ```
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+2.  **Masuk ke direktori project:**
+    ```bash
+    cd HUFT
+    ```
 
-**Edit a file directly in GitHub**
+3.  **Install semua dependencies yang dibutuhkan:**
+    ```bash
+    npm install
+    ```
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+4.  **Jalankan development server:**
+    ```bash
+    npm run dev
+    ```
 
-**Use GitHub Codespaces**
+5.  Buka [http://localhost:5173](http://localhost:5173) di browser Anda untuk melihat hasilnya.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/87a58e8a-cc57-4386-a375-70037155f974) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Terima kasih sudah berkunjung!
