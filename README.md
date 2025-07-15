@@ -6,7 +6,7 @@ Ini adalah source code untuk website portofolio pribadi saya, dibangun dengan te
 
 **[🚀 Lihat Live Demo](https://huft.vercel.app/)**
 
-> **Catatan:** Untuk menampilkan gambar di atas, ambil screenshot website Anda, tambahkan file gambar (misalnya `screenshot.png`) ke dalam folder project, push ke GitHub, lalu ganti `link-ke-screenshot.png` dengan nama file gambar Anda.
+> **Catatan:** 
 
 ---
 
